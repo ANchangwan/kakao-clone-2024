@@ -1,0 +1,28 @@
+.friends-display-link {
+  text-align: center;
+  display: block;
+  background-color: #fafafa;
+  padding: 15px 0px;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+#friends-display-link i {
+  color: rgba(0, 0, 0, 0.2);
+}
+
+.user-component__notification {
+  background-color: tomato;
+  display: flex;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+}
+
+.friends-screen {
+  padding: 0px var(--horizontal-space);
+}
